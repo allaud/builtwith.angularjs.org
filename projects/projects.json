@@ -1354,7 +1354,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1521,12 +1521,12 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
+      "name": "LicensingJS",
+      "thumb": "licensingjs/thumb.png",
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
+      "url": "http://licensingjs.azurewebsites.net/",
+      "info": "http://plus.google.com/u/0/102437918402681897261/",
+      "submitter": "mgbee8",
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1546,8 +1546,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1608,6 +1608,24 @@
         "free music",
         "online radio",
         "internet radio"
+      ]
+    },
+    {
+      "name": "Aviasales.ru lowest prices map",
+      "thumb": "map.aviasales/thumb.png",
+      "desc": "Aviasales map shows lowest flight prices on map found by aviasales.ru search users",
+      "url": "http://map.aviasales.ru",
+      "info": "http://aviasales.ru",
+      "submitter": "allaud",
+      "submissionDate": "2013-07-03",
+      "tags": [
+        "Production",
+        "Travel",
+        "Animations",
+        "jQuery",
+        "Google maps",
+        "Google Apps",
+        "HTML5"
       ]
     }
   ]
